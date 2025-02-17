@@ -10,9 +10,10 @@
   "editor.padding.top": 16,
   "editor.renderLineHighlight": "all",
   "editor.scrollbar.horizontalScrollbarSize": 8,
-  "editor.scrollbar.verticalScrollbarSize": 8,
+  "editor.scrollbar.verticalScrollbarSize": 0,
   "editor.tabSize": 2,
-  "editor.wordWrap": "on",
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 120,
   //   -> Font
   "editor.fontFamily": "'JetBrains Mono', monospace",
   "editor.fontSize": 13,
@@ -60,5 +61,5 @@
   // Extensions
   //   -> Prettier
   "prettier.singleQuote": true,
-  "prettier.trailingComma": "all",
+  "prettier.trailingComma": "all"
 }
