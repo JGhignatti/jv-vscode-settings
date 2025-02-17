@@ -1,0 +1,64 @@
+{
+  // Text Editor
+  "editor.detectIndentation": false,
+  "editor.glyphMargin": false,
+  "editor.guides.bracketPairs": "active",
+  "editor.inlayHints.enabled": "offUnlessPressed",
+  "editor.lightbulb.enabled": "off",
+  "editor.linkedEditing": true,
+  "editor.matchBrackets": "never",
+  "editor.padding.top": 16,
+  "editor.renderLineHighlight": "all",
+  "editor.scrollbar.horizontalScrollbarSize": 8,
+  "editor.scrollbar.verticalScrollbarSize": 8,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  //   -> Font
+  "editor.fontFamily": "'JetBrains Mono', monospace",
+  "editor.fontSize": 13,
+  //   -> Formatting
+  "editor.formatOnSave": true,
+  //   -> Diff Editor
+  "diffEditor.experimental.showMoves": true,
+  "diffEditor.renderIndicators": false,
+  //   -> Minimap
+  "editor.minimap.maxColumn": 80,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.showSlider": "always",
+  // Workbench
+  "workbench.layoutControl.type": "menu",
+  "workbench.navigationControl.enabled": false,
+  "workbench.panel.opensMaximized": "never",
+  "workbench.productIconTheme": "icons-carbon",
+  //   -> Appearance
+  "workbench.activityBar.location": "top",
+  "workbench.iconTheme": "symbols",
+  "workbench.tree.indent": 12,
+  "workbench.tree.renderIndentGuides": "always",
+  "workbench.view.showQuietly": {
+    "workbench.panel.output": false
+  },
+  //   -> Breadcrumbs
+  "breadcrumbs.enabled": false,
+  //   -> Editor Management
+  "workbench.editor.decorations.badges": false,
+  "workbench.editor.highlightModifiedTabs": true,
+  //   -> Zen Mode
+  "zenMode.fullScreen": false,
+  // Window
+  "window.autoDetectHighContrast": false,
+  "window.commandCenter": false,
+  // Features
+  //   -> Explorer
+  "explorer.compactFolders": false,
+  "explorer.decorations.badges": false,
+  //   -> Search
+  "search.decorations.badges": false,
+  "search.showLineNumbers": true,
+  //   -> Extensions
+  "extensions.closeExtensionDetailsOnViewChange": true,
+  // Extensions
+  //   -> Prettier
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+}
